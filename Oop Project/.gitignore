@@ -1,0 +1,12 @@
+# Ignore the node_modules directory
+/node_modules
+
+
+# Ignore any built Typescript files( Java Script output)
+
+/dist
+
+#Ignore editor/IDE- specified files and directories
+.vscode
+.idea
+.SD_Store
